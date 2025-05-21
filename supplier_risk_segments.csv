@@ -1,0 +1,6 @@
+Supplier,Total_Orders,Avg_Lead_Time,Avg_Savings_%,Compliance_%,Avg_Defect_Rate,Total_Saving,Total_Spend_Negotiated,Delayed_Orders,High_Defect_Orders,Category_Coverage,Supplier_Segment
+Alpha_Inc,141,10.61,8.21,93.62,0.02,688920.49,7839712.25,67,1,5,High Risk
+Beta_Supplies,156,11.27,7.83,75.64,0.08,889940.89,9858665.9,80,0,5,High Risk
+Delta_Logistics,171,10.85,7.81,60.82,0.11,781976.49,9236240.47,81,62,5,High Risk
+Epsilon_Group,166,10.87,8.04,98.19,0.03,844980.18,9851156.06,81,1,5,High Risk
+Gamma_Co,143,10.19,7.98,86.01,0.04,725308.42,8587921.71,61,0,5,High Risk
