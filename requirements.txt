@@ -1,5 +1,5 @@
 Pandas
 Numpy
-MatPlotLib
+MatplotLib
 Seaborn
-WorCcloud
+Wordcloud
